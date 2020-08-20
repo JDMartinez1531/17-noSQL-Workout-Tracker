@@ -1,7 +1,5 @@
 # 17-noSQL-Workout-Tracker
 
-An application that tracks various workout data using MongoDB
-
 ---
 
 ### Table of Contents
@@ -21,7 +19,7 @@ An application that tracks various workout data using MongoDB
 
 ## Description
 
-**Workout Tracker** A consumer will reach their fitness goals quicker when they track their workout progress.
+An application that tracks various workout data using MongoDB
 
 ---
 
